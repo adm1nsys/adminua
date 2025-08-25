@@ -377,28 +377,40 @@ function routeId() {
   return m ? decodeURIComponent(m[1]) : null;
 }
 
+function toggleView(el, show) {
+  if (!el) return;
+  if (show) {
+    el.hidden = false;            // снимаем hidden
+    el.style.display = 'grid';    // показываем как grid
+  } else {
+    el.hidden = true;             // ставим hidden
+    el.style.removeProperty('display'); // убираем inline-стиль display
+  }
+}
+
 function route() {
   const id = routeId();
   const viewHome = document.getElementById('view-home');
   const viewProduct = document.getElementById('view-product');
 
   if (location.hash === '#/products') {
-    if (viewHome) viewHome.hidden = false;
-    if (viewProduct) viewProduct.hidden = true;
+    toggleView(viewHome, true);
+    toggleView(viewProduct, false);
     renderHome();
     requestAnimationFrame(() => scrollToId('products'));
     return;
   }
 
   if (id) {
-    if (viewHome) viewHome.hidden = true;
-    if (viewProduct) viewProduct.hidden = false;
+    toggleView(viewHome, false);
+    toggleView(viewProduct, true);
     renderProduct(id);
   } else {
-    if (viewHome) viewHome.hidden = false;
-    if (viewProduct) viewProduct.hidden = true;
+    toggleView(viewHome, true);
+    toggleView(viewProduct, false);
     renderHome();
   }
+
   function markActive(){
     const file = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
     const hash = location.hash || '';
