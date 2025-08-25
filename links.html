@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin Inc. — Посилання</title>
+  <meta name="description" content="Корисні посилання: соцмережі, профілі для ігор, OLX, резюме." />
+  <link rel="stylesheet" href="./src/styles.css" />
+  <link rel="icon" href="./public/images/ico.png" />
+</head>
+<body>
+  <div id="header-root"></div>
+
+  <main class="container" style="margin-top:12px" id="links-page">
+    <div class="section-head">
+      <h3 data-i18n="links.heading">Посилання</h3>
+      <p class="muted" data-i18n="footer.tagline">3D-друк з увагою до деталей</p>
+    </div>
+
+    <div class="grid">
+      <div class="info">
+        <h4 data-i18n="links.content">Контент</h4>
+        <ul>
+          <li><a href="https://www.youtube.com/@administration777" target="_blank" rel="noopener" data-olx>Admin Inc.</a></li>
+          <li><a href="https://www.youtube.com/@admin_inc_ua" target="_blank" rel="noopener" data-olx>Admin Inc. UA</a></li>
+          <li><a href="https://instagram.com/_george_.png" target="_blank" rel="noopener" data-olx>@_george_.png</a></li>
+          <li><a href="https://instagram.com/_george_.jpg" target="_blank" rel="noopener" data-olx>@_george_.jpg</a></li>
+          <li><a href="https://www.olx.ua/list/user/zI1BW/" target="_blank" rel="noopener" data-olx>OLX</a></li>
+          <li><a href="https://adm1nsys.github.io/summary/" target="_blank" rel="noopener" data-i18n="links.resume" data-olx>Резюме</a></li>
+        </ul>
+      </div>
+
+      <div class="info">
+        <h4 data-i18n="links.gaming">Геймінг</h4>
+        <ul>
+          <li>Steam: <strong data-olx>1315272470</strong></li>
+          <li><a href="https://www.xbox.com/en-US/play/user/HopedAdmin" target="_blank" rel="noopener" data-olx>Xbox — HopedAdmin</a></li>
+          <li><a href="https://horizon.meta.com/profile/122096374778017248/?hwsh=spxFxobKOH" target="_blank" rel="noopener" data-olx>Meta Horizon</a></li>
+        </ul>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer" style="margin-top:26px">
+    <div class="container footer-grid">
+      <div>
+        <div class="brand">Admin Inc.</div>
+        <div class="muted" data-i18n="footer.tagline">3D-друк з увагою до деталей</div>
+      </div>
+      <div>
+        <h4 data-i18n="footer.links">Посилання</h4>
+        <ul>
+          <li><a href="https://www.youtube.com/@administration777" target="_blank" rel="noopener">YouTube — Admin Inc.</a></li>
+          <li><a href="https://www.youtube.com/@admin_inc_ua" target="_blank" rel="noopener">YouTube — Admin Inc. UA</a></li>
+          <li><a href="https://www.olx.ua/list/user/zI1BW/" target="_blank" rel="noopener">OLX</a></li>
+          <li><a href="https://instagram.com/_george_.png" target="_blank" rel="noopener">Instagram #1</a></li>
+          <li><a href="https://instagram.com/_george_.jpg" target="_blank" rel="noopener">Instagram #2</a></li>
+        </ul>
+      </div>
+    </div>
+    <center>NOTE: This website has been translated by automatic means. The original is Ukrainian. I apologize if you see translation problems.</center>
+    <div class="container tiny muted">© <span id="year"></span> Admin Inc.</div>
+  </footer>
+  <!-- Confirm leave modal -->
+  <div id="leave-modal" class="modal hidden" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-backdrop"></div>
+    <div class="modal-card">
+      <div class="modal-title" data-i18n="modal.leave.title">Покинути сайт?</div>
+      <p class="modal-text">
+        <span data-i18n="modal.leave.text">Ви переходите за зовнішнім посиланням:</span>
+        <br><span id="leave-url" class="muted small"></span>
+      </p>
+      <div class="modal-actions">
+        <button id="leave-no" class="btn brand-ghost" data-i18n="modal.leave.no">Ні</button>
+        <a id="leave-yes" class="btn outline" target="_blank" rel="noopener" data-i18n="modal.leave.yes">Так</a>
+      </div>
+    </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="./src/header.js"></script>
+  <script src="./src/links-page.js"></script>
+</body>
+</html>

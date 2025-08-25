@@ -1,0 +1,39 @@
+<!-- Header template + mount point -->
+<template id="tpl-header">
+  <div class="site-header-wrap">
+    <header class="site-header container">
+      <a class="logo" href="index.html" data-i18n="brand">Admin Store UA</a>
+
+      <button id="menu-btn" class="menu-btn" aria-expanded="false" aria-controls="nav-panel" aria-label="Меню">☰</button>
+
+      <nav class="nav" id="nav-inline">
+        <a href="index.html" data-i18n="nav.home" class="active">Головна</a>
+        <a href="products.html" data-i18n="nav.products">Продукти</a>
+        <a href="links.html" data-i18n="nav.links">Посилання</a>
+        <!-- <a href="#about" data-i18n="nav.about">Про нас</a> -->
+      </nav>
+
+      <div class="lang">
+        <label class="sr-only" for="lang">Мова</label>
+        <select id="lang" aria-label="Language">
+          <option value="uk" selected>UA</option>
+          <option value="en">EN</option>
+          <option value="de">DE</option>
+          <option value="pl">PL</option>
+          <option value="cs">CS</option>
+          <option value="da">DA</option>
+        </select>
+      </div>
+    </header>
+  </div>
+
+  <div id="nav-panel" class="nav-panel" hidden>
+    <nav class="nav-col" aria-label="Меню">
+      <a href="index.html" data-i18n="nav.home">Головна</a>
+      <a href="products.html" data-i18n="nav.products">Продукти</a>
+      <a href="links.html" data-i18n="nav.links">Посилання</a>
+      <!-- <a href="#about" data-i18n="nav.about">Про нас</a> -->
+    </nav>
+  </div>
+</template>
+<div id="header-root"></div>

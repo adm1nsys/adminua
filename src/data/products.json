@@ -1,0 +1,222 @@
+[
+  {
+    "id": "model-1",
+    "title": {
+      "uk": "Стильні та сучасні органайзери/контейнери для інтерʼєру",
+      "en": "Stylish and modern organizers/containers for interior",
+      "de": "Stilvolle und moderne Organizer/Behälter für das Interieur",
+      "pl": "Stylowe i nowoczesne organizery/pojemniki do wnętrz",
+      "cs": "Stylové a moderní organizéry/kontejnery do interiéru",
+      "da": "Stilfulde og moderne organisere/containere til interiør"
+    },
+    "descShort": {
+      "uk": "Практичні, стильні, для їжі й дрібниць.",
+      "en": "Practical, stylish, for food and small items.",
+      "de": "Praktisch, stilvoll, für Lebensmittel und Kleinigkeiten.",
+      "pl": "Praktyczne, stylowe, do jedzenia i drobiazgów.",
+      "cs": "Praktické, stylové, na potraviny i drobnosti.",
+      "da": "Praktiske, stilfulde, til mad og småting."
+    },
+    "descLong": {
+      "uk": "Стильні та сучасні органайзери/контейнери для інтерʼєру які стануть новим подихом дизайну у вашому будинку. У них можна зберігати їжу: крупи, спеції, горіхи, фрукти та інше. Також підходять для нехарчових речей: монетки, скріпки, кнопки, вушні палички, ватні диски та інше. \n\nПереваги:\n+ Універсальне використання;\n+ Не пропускає вологу;\n+ Впишеться в будь-який інтерʼєр;\n+ Можна використовувати з їжею. \n\nВиготовлено з використанням технології FDM та якісного пластику PETG.",
+      "en": "Stylish and modern organizers/containers for interior that bring a fresh touch of design to your home. They can store food: grains, spices, nuts, fruits, and more. Also suitable for non-food items: coins, paper clips, buttons, cotton swabs, pads, and more. \n\nAdvantages:\n+ Versatile use;\n+ Moisture resistant;\n+ Fits any interior;\n+ Safe for food. \n\nMade with FDM technology and high-quality PETG plastic.",
+      "de": "Stilvolle und moderne Organizer/Behälter für das Interieur, die Ihrem Zuhause einen frischen Designakzent verleihen. Sie können Lebensmittel aufbewahren: Getreide, Gewürze, Nüsse, Früchte und mehr. Auch geeignet für nicht essbare Dinge: Münzen, Büroklammern, Knöpfe, Wattestäbchen, Wattepads und mehr. \n\nVorteile:\n+ Vielseitige Verwendung;\n+ Feuchtigkeitsbeständig;\n+ Passt in jedes Interieur;\n+ Lebensmittelecht. \n\nHergestellt mit FDM-Technologie aus hochwertigem PETG-Kunststoff.",
+      "pl": "Stylowe i nowoczesne organizery/pojemniki do wnętrz, które wniosą powiew świeżości do Twojego domu. Mogą przechowywać żywność: kasze, przyprawy, orzechy, owoce i inne. Nadają się także do drobiazgów: monety, spinacze, guziki, patyczki higieniczne, płatki kosmetyczne i inne. \n\nZalety:\n+ Uniwersalne zastosowanie;\n+ Odporne na wilgoć;\n+ Pasują do każdego wnętrza;\n+ Bezpieczne dla żywności. \n\nWykonane w technologii FDM z wysokiej jakości plastiku PETG.",
+      "cs": "Stylové a moderní organizéry/kontejnery do interiéru, které dodají vašemu domovu nový designový nádech. Lze v nich uchovávat potraviny: obilí, koření, ořechy, ovoce a další. Vhodné i na drobnosti: mince, sponky, knoflíky, vatové tyčinky, odličovací tampony a další. \n\nVýhody:\n+ Univerzální použití;\n+ Odolné proti vlhkosti;\n+ Hodí se do každého interiéru;\n+ Vhodné i pro potraviny. \n\nVyrobeno pomocí FDM technologie z kvalitního PETG plastu.",
+      "da": "Stilfulde og moderne organisere/containere til interiør, som giver dit hjem et frisk pust af design. Kan opbevare mad: korn, krydderier, nødder, frugt og mere. Også velegnede til ikke-fødevare ting: mønter, clips, knapper, vatpinde, vatrondeller og mere. \n\nFordele:\n+ Universel anvendelse;\n+ Fugtbestandig;\n+ Passer ind i ethvert interiør;\n+ Fødevaresikker. \n\nFremstillet med FDM-teknologi af højkvalitets PETG-plast."
+    },
+    "specs": {
+      "uk": ["Матеріал: PETG", "Технологія: FDM", "Вологозахист: так", "Призначення: для їжі та дрібниць"],
+      "en": ["Material: PETG", "Technology: FDM", "Moisture resistance: yes", "Use: food & small items"],
+      "de": ["Material: PETG", "Technologie: FDM", "Feuchtigkeitsschutz: ja", "Verwendung: Lebensmittel & Kleinigkeiten"],
+      "pl": ["Materiał: PETG", "Technologia: FDM", "Odporność na wilgoć: tak", "Zastosowanie: żywność i drobiazgi"],
+      "cs": ["Materiál: PETG", "Technologie: FDM", "Ochrana proti vlhkosti: ano", "Určení: potraviny a drobnosti"],
+      "da": ["Materiale: PETG", "Teknologi: FDM", "Fugtbestandig: ja", "Anvendelse: mad & småting"]
+    },
+    "price": 199,
+    "discount": 0,
+    "img": [
+      "public/images/model-1-1.webp",
+      "public/images/model-1-2.webp",
+      "public/images/model-1-3.webp",
+      "public/images/model-1-4.webp",
+      "public/images/model-1-5.webp"
+    ],
+    "olx": "https://www.olx.ua/d/obyavlenie/stiln-ta-suchasn-organayzeri-konteyneri-dlya-nterru-IDXZRLC.html",
+    "download": {
+      "uk": "https://www.crealitycloud.com/model-detail/lira-organiser",
+      "en": "https://www.crealitycloud.com/model-detail/lira-organiser",
+      "de": "https://www.crealitycloud.com/model-detail/lira-organiser",
+      "pl": "https://www.crealitycloud.com/model-detail/lira-organiser",
+      "cs": "https://www.crealitycloud.com/model-detail/lira-organiser",
+      "da": "https://www.crealitycloud.com/model-detail/lira-organiser"
+    },
+    "date": "2025-08-02",
+    "madeBy": false,
+    "new": true
+  },
+  {
+  "id": "model-2",
+  "title": {
+    "uk": "Контейнер головоломка лабіринт",
+    "en": "Labyrinth puzzle container",
+    "de": "Labyrinth-Puzzle-Behälter",
+    "pl": "Pojemnik łamigłówka labirynt",
+    "cs": "Kontejner hlavolam bludiště",
+    "da": "Labyrint puslespilbeholder"
+  },
+  "descShort": {
+    "uk": "Компактна головоломка з порожниною всередині.",
+    "en": "Compact puzzle with hollow inside.",
+    "de": "Kompaktes Puzzle mit Hohlraum innen.",
+    "pl": "Kompaktowa łamigłówka z wnętrzem.",
+    "cs": "Kompaktní hlavolam s dutinou uvnitř.",
+    "da": "Kompakt puslespil med hulrum indeni."
+  },
+  "descLong": {
+    "uk": "Контейнер головоломка лабіринт. Виготовлений з міцного пластику PETG. Незважаючи на компактні розміри, має складний механізм. Всередині порожній — можна щось покласти. Може стати стильним подарунком із сюрпризом зовні.\n\nПереваги:\n+ Складна для своїх розмірів;\n+ Компактна;\n+ Порожнина всередині;\n+ Гарний подарунок;\n+ Стильний дизайн.",
+    "en": "Labyrinth puzzle container. Made from durable PETG plastic. Despite its compact size, it features a challenging mechanism. Hollow inside — perfect for placing small items. Can be a stylish gift with a surprise.\n\nAdvantages:\n+ Challenging for its size;\n+ Compact;\n+ Hollow inside;\n+ Great as a gift;\n+ Stylish design.",
+    "de": "Labyrinth-Puzzle-Behälter. Hergestellt aus robustem PETG-Kunststoff. Trotz kompakter Größe verfügt er über einen anspruchsvollen Mechanismus. Hohl innen – ideal zum Verstauen kleiner Gegenstände. Kann ein stilvolles Geschenk mit Überraschung sein.\n\nVorteile:\n+ Anspruchsvoll für seine Größe;\n+ Kompakt;\n+ Hohlraum innen;\n+ Tolles Geschenk;\n+ Stilvolles Design.",
+    "pl": "Pojemnik łamigłówka labirynt. Wykonany z wytrzymałego plastiku PETG. Pomimo kompaktowych rozmiarów ma trudny mechanizm. Wnętrze jest puste — można coś włożyć. Może być stylowym prezentem z niespodzianką.\n\nZalety:\n+ Trudna jak na swój rozmiar;\n+ Kompaktowa;\n+ Puste wnętrze;\n+ Świetny prezent;\n+ Stylowy design.",
+    "cs": "Kontejner hlavolam bludiště. Vyroben z odolného PETG plastu. Navzdory kompaktním rozměrům má složitý mechanismus. Dutý uvnitř – vhodný pro uložení drobností. Může být stylovým dárkem s překvapením.\n\nVýhody:\n+ Náročný na svou velikost;\n+ Kompaktní;\n+ Dutý uvnitř;\n+ Skvělý dárek;\n+ Stylový design.",
+    "da": "Labyrint puslespilbeholder. Fremstillet af holdbart PETG-plast. På trods af den kompakte størrelse har den en udfordrende mekanisme. Hul indeni – perfekt til småting. Kan være en stilfuld gave med en overraskelse.\n\nFordele:\n+ Udfordrende for sin størrelse;\n+ Kompakt;\n+ Hul indeni;\n+ God gaveidé;\n+ Stilfuldt design."
+  },
+  "specs": {
+    "uk": ["Матеріал: PETG", "Тип: Контейнер-головоломка", "Призначення: подарунок, зберігання дрібниць", "Особливість: порожнина всередині"],
+    "en": ["Material: PETG", "Type: Puzzle container", "Use: gift, small storage", "Feature: hollow inside"],
+    "de": ["Material: PETG", "Typ: Puzzle-Behälter", "Verwendung: Geschenk, Aufbewahrung von Kleinigkeiten", "Besonderheit: Hohlraum innen"],
+    "pl": ["Materiał: PETG", "Typ: Pojemnik-łamigłówka", "Zastosowanie: prezent, przechowywanie drobiazgów", "Cechy: puste wnętrze"],
+    "cs": ["Materiál: PETG", "Typ: Kontejner-hlavolam", "Použití: dárek, ukládání drobností", "Vlastnost: dutý uvnitř"],
+    "da": ["Materiale: PETG", "Type: Puslespilsbeholder", "Anvendelse: gave, små opbevaringsgenstande", "Funktion: hul indeni"]
+  },
+  "price": 149,
+  "discount": 0,
+  "img": [
+    "public/images/model-2-1.webp",
+    "public/images/model-2-2.webp",
+    "public/images/model-2-3.webp",
+    "public/images/model-2-4.webp"
+  ],
+  "olx": "https://www.olx.ua/d/obyavlenie/konteyner-golovolomka-labrint-IDXWta1.html",
+  "download": {
+    "uk": "https://makerworld.com/en/models/1138169-labyrinth-puzzlebox-small-version?from=search#profileId-1139993",
+    "en": "https://makerworld.com/en/models/1138169-labyrinth-puzzlebox-small-version?from=search#profileId-1139993",
+    "de": "https://makerworld.com/en/models/1138169-labyrinth-puzzlebox-small-version?from=search#profileId-1139993",
+    "pl": "https://makerworld.com/en/models/1138169-labyrinth-puzzlebox-small-version?from=search#profileId-1139993",
+    "cs": "https://makerworld.com/en/models/1138169-labyrinth-puzzlebox-small-version?from=search#profileId-1139993",
+    "da": "https://makerworld.com/en/models/1138169-labyrinth-puzzlebox-small-version?from=search#profileId-1139993"
+  },
+  "date": "2025-07-10",
+  "madeBy": false,
+  "new": true
+},
+{
+  "id": "model-3",
+  "title": {
+    "uk": "Найкраща Механічна підставка для телефону",
+    "en": "Best Mechanical Phone Stand",
+    "de": "Beste mechanische Handyhalterung",
+    "pl": "Najlepsza mechaniczna podstawka pod telefon",
+    "cs": "Nejlepší mechanický stojánek na telefon",
+    "da": "Bedste mekaniske telefonholder"
+  },
+  "descShort": {
+    "uk": "Механічна, стійка, підходить для телефону й планшету.",
+    "en": "Mechanical, stable, fits phones and tablets.",
+    "de": "Mechanisch, stabil, geeignet für Handy und Tablet.",
+    "pl": "Mechaniczna, stabilna, pasuje do telefonu i tabletu.",
+    "cs": "Mechanický, stabilní, vhodný pro telefony i tablety.",
+    "da": "Mekanisk, stabil, passer til telefoner og tablets."
+  },
+  "descLong": {
+    "uk": "Найкраща Механічна підставка для телефону! \n\nТоп 10 причин:\n1. Дуже точне налаштування кута нахилу;\n2. Кут від 0° до 90°;\n3. Незвичайний дизайн;\n4. Висока надійність;\n5. Підтримує планшети;\n6. Можна заряджати під час використання;\n7. Мала вага;\n8. Розбірна конструкція;\n9. Для малих телефонів і планшетів;\n10. Гарна стійкість. \n\nДодатково топ 5 причин:\n1. Отвори для вентиляції;\n2. Виготовлено з використанням FFF/FDM;\n3. Стільникове заповнення міцніше ніж 100%;\n4. PETG витримує навантаження краще ніж ABS;\n5. Не прогинається під нагрузкою.",
+    "en": "The Best Mechanical Phone Stand! \n\nTop 10 reasons:\n1. Precise angle adjustment;\n2. Angle from 0° to 90°;\n3. Unique design;\n4. High reliability;\n5. Supports tablets;\n6. Can charge while in use;\n7. Very lightweight;\n8. Detachable design;\n9. Suitable for small phones and tablets;\n10. Great stability. \n\nExtra top 5 reasons:\n1. Ventilation holes;\n2. Made with FFF/FDM technology;\n3. Honeycomb infill stronger than 100%;\n4. PETG stronger than ABS, heat resistant;\n5. Does not bend under load.",
+    "de": "Die beste mechanische Handyhalterung! \n\nTop 10 Gründe:\n1. Präzise Winkelverstellung;\n2. Winkel von 0° bis 90°;\n3. Einzigartiges Design;\n4. Hohe Zuverlässigkeit;\n5. Unterstützt Tablets;\n6. Laden während der Nutzung möglich;\n7. Sehr leicht;\n8. Zerlegbare Konstruktion;\n9. Für kleine Handys und Tablets geeignet;\n10. Hohe Stabilität. \n\nZusätzlich Top 5 Gründe:\n1. Belüftungsöffnungen;\n2. Hergestellt mit FFF/FDM-Technologie;\n3. Wabenfüllung stärker als 100%;\n4. PETG hält besser als ABS und schmilzt nicht in der Sonne;\n5. Biegt sich nicht unter Last.",
+    "pl": "Najlepsza mechaniczna podstawka pod telefon! \n\nTop 10 powodów:\n1. Dokładna regulacja kąta nachylenia;\n2. Kąt od 0° do 90°;\n3. Unikalny design;\n4. Wysoka niezawodność;\n5. Obsługuje tablety;\n6. Można ładować podczas używania;\n7. Bardzo lekka;\n8. Konstrukcja rozkładana;\n9. Do małych telefonów i tabletów;\n10. Świetna stabilność. \n\nDodatkowe 5 powodów:\n1. Otwory wentylacyjne;\n2. Wykonana w technologii FFF/FDM;\n3. Wypełnienie plastra miodu mocniejsze niż 100%;\n4. PETG lepsze niż ABS, odporne na ciepło;\n5. Nie ugina się pod obciążeniem.",
+    "cs": "Nejlepší mechanický stojánek na telefon! \n\nTop 10 důvodů:\n1. Přesné nastavení úhlu;\n2. Úhel od 0° do 90°;\n3. Neobvyklý design;\n4. Vysoká spolehlivost;\n5. Podporuje tablety;\n6. Možnost nabíjení při používání;\n7. Velmi lehký;\n8. Rozebíratelná konstrukce;\n9. Vhodný pro malé telefony i tablety;\n10. Skvělá stabilita. \n\nNavíc 5 důvodů:\n1. Otvory pro ventilaci;\n2. Vyrobeno pomocí FFF/FDM technologie;\n3. Plástvová výplň pevnější než 100%;\n4. PETG lepší než ABS, odolný vůči teplu;\n5. Neprohýbá se pod zátěží.",
+    "da": "Den bedste mekaniske telefonholder! \n\nTop 10 grunde:\n1. Præcis vinkeljustering;\n2. Vinkel fra 0° til 90°;\n3. Unikt design;\n4. Høj pålidelighed;\n5. Understøtter tablets;\n6. Kan oplades under brug;\n7. Meget letvægt;\n8. Aftagelig konstruktion;\n9. Til små telefoner og tablets;\n10. God stabilitet. \n\nEkstra 5 grunde:\n1. Ventilationshuller;\n2. Fremstillet med FFF/FDM teknologi;\n3. Honningkagefyld stærkere end 100%;\n4. PETG stærkere end ABS, varmeresistent;\n5. Bøjer sig ikke under belastning."
+  },
+  "specs": {
+    "uk": ["Матеріал: PETG", "Технологія: FFF/FDM", "Кут: 0°–90°", "Призначення: телефон, планшет", "Заповнення: стільникова структура", "Особливість: вентиляційні отвори"],
+    "en": ["Material: PETG", "Technology: FFF/FDM", "Angle: 0°–90°", "Use: phone, tablet", "Infill: honeycomb structure", "Feature: ventilation holes"],
+    "de": ["Material: PETG", "Technologie: FFF/FDM", "Winkel: 0°–90°", "Verwendung: Handy, Tablet", "Füllung: Wabenstruktur", "Besonderheit: Belüftungsöffnungen"],
+    "pl": ["Materiał: PETG", "Technologia: FFF/FDM", "Kąt: 0°–90°", "Zastosowanie: telefon, tablet", "Wypełnienie: struktura plastra miodu", "Cechy: otwory wentylacyjne"],
+    "cs": ["Materiál: PETG", "Technologie: FFF/FDM", "Úhel: 0°–90°", "Použití: telefon, tablet", "Výplň: plástvová struktura", "Vlastnost: ventilační otvory"],
+    "da": ["Materiale: PETG", "Teknologi: FFF/FDM", "Vinkel: 0°–90°", "Anvendelse: telefon, tablet", "Fyld: honningkagestruktur", "Funktion: ventilationshuller"]
+  },
+  "price": 400,
+  "discount": 20,
+  "img": [
+    "public/images/model-3-1.webp",
+    "public/images/model-3-2.webp"
+  ],
+  "olx": "https://www.olx.ua/d/obyavlenie/naykrascha-mehanchna-pdstavka-dlya-telefonu-IDYf0iH.html",
+  "download": {
+    "uk": "https://www.crealitycloud.com/model-detail/smart-phone-stand-upgrade-version",
+    "en": "https://www.crealitycloud.com/model-detail/smart-phone-stand-upgrade-version",
+    "de": "https://www.crealitycloud.com/model-detail/smart-phone-stand-upgrade-version",
+    "pl": "https://www.crealitycloud.com/model-detail/smart-phone-stand-upgrade-version",
+    "cs": "https://www.crealitycloud.com/model-detail/smart-phone-stand-upgrade-version",
+    "da": "https://www.crealitycloud.com/model-detail/smart-phone-stand-upgrade-version"
+  },
+  "date": "2025-08-21",
+  "madeBy": false,
+  "new": true,
+  "hot": true
+},
+{
+  "id": "model-4",
+  "title": {
+    "uk": "Apple Watch універсальна зарядна станція",
+    "en": "Apple Watch Universal Charging Stand",
+    "de": "Apple Watch Universelle Ladestation",
+    "pl": "Apple Watch uniwersalna stacja ładująca",
+    "cs": "Apple Watch univerzální nabíjecí stanice",
+    "da": "Apple Watch universel opladningsstander"
+  },
+  "descShort": {
+    "uk": "Сумісна з усіма моделями Apple Watch.",
+    "en": "Compatible with all Apple Watch models.",
+    "de": "Kompatibel mit allen Apple Watch Modellen.",
+    "pl": "Kompatybilna ze wszystkimi modelami Apple Watch.",
+    "cs": "Kompatibilní se všemi modely Apple Watch.",
+    "da": "Kompatibel med alle Apple Watch modeller."
+  },
+  "descLong": {
+    "uk": "Універсальна зарядна станція для Apple Watch будь-якої серії від 1 до Ultra 2. \n\n⚠️ ЗАРЯДКА НЕ ІДЕ В КОМПЛЕКТІ! \n\nКомплект: 1 шт. підставка для оригінальної зарядки. \n\nПереваги:\n1. Підтримка всіх моделей;\n2. 3-х колірний дизайн;\n3. Підтримка оригінальної та неоригінальної зарядки;\n4. Не ламає кабель, на відміну від конкурентів;\n5. Немає проблем з примагнічуванням;\n6. Малий розмір;\n7. Незвичайний вигляд;\n8. Стійкість до температур понад 40°C;\n9. Упругість до пошкоджень. \n\nУмови зберігання: від −30°C до +70°C.",
+    "en": "Universal charging stand for Apple Watch of any series from 1 to Ultra 2. \n\n⚠️ CHARGER NOT INCLUDED! \n\nSet: 1 pc stand for original charger. \n\nAdvantages:\n1. Support for all models;\n2. 3-color design;\n3. Works with original and non-original chargers;\n4. Does not damage the cable like competitors;\n5. No magnetization issues;\n6. Small size;\n7. Unique look;\n8. Heat resistant above 40°C;\n9. Flexible and damage resistant. \n\nStorage conditions: −30°C to +70°C.",
+    "de": "Universelle Ladestation für Apple Watch jeder Serie von 1 bis Ultra 2. \n\n⚠️ LADEGERÄT NICHT ENTHALTEN! \n\nLieferumfang: 1 Ständer für das Original-Ladegerät. \n\nVorteile:\n1. Unterstützung aller Modelle;\n2. 3-farbiges Design;\n3. Kompatibel mit originalen und nicht-originalen Ladegeräten;\n4. Schont das Kabel im Gegensatz zu Mitbewerbern;\n5. Keine Magnetisierungsprobleme;\n6. Kleine Größe;\n7. Ungewöhnliches Aussehen;\n8. Hitzebeständig über 40°C;\n9. Flexibel und stoßfest. \n\nLagerung: −30°C bis +70°C.",
+    "pl": "Uniwersalna stacja ładująca dla Apple Watch wszystkich serii od 1 do Ultra 2. \n\n⚠️ ŁADOWARKA NIE JEST W ZESTAWIE! \n\nZestaw: 1 szt. podstawka pod oryginalną ładowarkę. \n\nZalety:\n1. Obsługa wszystkich modeli;\n2. Trójkolorowy design;\n3. Obsługuje oryginalne i nieoryginalne ładowarki;\n4. Nie uszkadza kabla jak konkurencja;\n5. Brak problemów z magnetyzacją;\n6. Mały rozmiar;\n7. Nietypowy wygląd;\n8. Odporna na temperatury powyżej 40°C;\n9. Elastyczna i odporna na uszkodzenia. \n\nPrzechowywanie: od −30°C do +70°C.",
+    "cs": "Univerzální nabíjecí stanice pro Apple Watch všech sérií od 1 do Ultra 2. \n\n⚠️ NABÍJEČKA NENÍ SOUČÁSTÍ BALENÍ! \n\nBalení: 1 ks stojánek pro originální nabíječku. \n\nVýhody:\n1. Podpora všech modelů;\n2. Tříbarevný design;\n3. Podpora originální i neoriginální nabíječky;\n4. Neopotřebovává kabel jako konkurence;\n5. Žádné problémy s magnetizací;\n6. Malá velikost;\n7. Neobvyklý vzhled;\n8. Odolnost vůči teplotám nad 40°C;\n9. Pružnost a odolnost proti poškození. \n\nSkladování: −30°C až +70°C.",
+    "da": "Universel opladningsstander til Apple Watch alle serier fra 1 til Ultra 2. \n\n⚠️ OPLADER IKKE INKLUDERET! \n\nSæt: 1 stk. stander til original oplader. \n\nFordele:\n1. Understøtter alle modeller;\n2. 3-farvet design;\n3. Virker med originale og uoriginale opladere;\n4. Skader ikke kablet som konkurrenter;\n5. Ingen magnetiseringsproblemer;\n6. Lille størrelse;\n7. Unikt udseende;\n8. Varmebestandig over 40°C;\n9. Fleksibel og modstandsdygtig overfor skader. \n\nOpbevaring: −30°C til +70°C."
+  },
+  "specs": {
+    "uk": ["Матеріал: PETG", "Сумісність: всі моделі Apple Watch", "Дизайн: 3-кольори", "Технологія: FDM/FFF", "Температурна стійкість: >40°C", "Умови зберігання: −30°C до +70°C"],
+    "en": ["Material: PETG", "Compatibility: all Apple Watch models", "Design: 3-color", "Technology: FDM/FFF", "Heat resistance: >40°C", "Storage: −30°C to +70°C"],
+    "de": ["Material: PETG", "Kompatibilität: alle Apple Watch Modelle", "Design: 3-farbig", "Technologie: FDM/FFF", "Hitzebeständig: >40°C", "Lagerung: −30°C bis +70°C"],
+    "pl": ["Materiał: PETG", "Kompatybilność: wszystkie modele Apple Watch", "Design: 3-kolorowy", "Technologia: FDM/FFF", "Odporność na temperaturę: >40°C", "Przechowywanie: −30°C do +70°C"],
+    "cs": ["Materiál: PETG", "Kompatibilita: všechny modely Apple Watch", "Design: 3-barevný", "Technologie: FDM/FFF", "Tepelná odolnost: >40°C", "Skladování: −30°C až +70°C"],
+    "da": ["Materiale: PETG", "Kompatibilitet: alle Apple Watch modeller", "Design: 3-farvet", "Teknologi: FDM/FFF", "Varmebestandighed: >40°C", "Opbevaring: −30°C til +70°C"]
+  },
+  "price": 250,
+  "discount": 0,
+  "img": [
+    "public/images/model-4-1.webp",
+    "public/images/model-4-2.webp",
+    "public/images/model-4-3.webp"
+  ],
+  "olx": "https://www.olx.ua/d/obyavlenie/apple-watch-unversalna-zaryadna-stantsya-IDYJvX1.html",
+  "download": {
+    "uk": "https://makerworld.com/en/models/252931-apple-watch-charging-stand",
+    "en": "https://makerworld.com/en/models/252931-apple-watch-charging-stand",
+    "de": "https://makerworld.com/en/models/252931-apple-watch-charging-stand",
+    "pl": "https://makerworld.com/en/models/252931-apple-watch-charging-stand",
+    "cs": "https://makerworld.com/en/models/252931-apple-watch-charging-stand",
+    "da": "https://makerworld.com/en/models/252931-apple-watch-charging-stand"
+  },
+  "date": "2025-08-21",
+  "madeBy": false,
+  "new": true
+}
+
+]

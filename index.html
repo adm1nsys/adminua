@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Admin Store UA</title>
+  <meta name="description" content="3D-друк на K1C. Міцні вироби з PETG. Замовлення через OLX." />
+  <link rel="stylesheet" href="./src/styles.css" />
+  <link rel="icon" href="./public/images/ico.png" />
+</head>
+<body>
+  <!-- Loading screen -->
+  <div id="loader" class="loader">
+    <div class="spinner" aria-label="Завантаження…"></div>
+    <div class="loader-text">Завантаження…</div>
+  </div>
+    <div id="header-root"></div>
+  </div>
+
+  <!-- Lang toast -->
+  <div id="lang-toast" class="toast" hidden><span id="lang-toast-text">UA</span></div>
+
+  <!-- MAIN VIEWS -->
+  <main id="view-home">
+    <!-- Hero: Hot & New -->
+    <section class="hero container" id="hero">
+      <div class="hero-card hot">
+        <div class="eyebrow red" data-i18n="hero.hot">Гаряча пропозиція</div>
+        <h2 id="hot-title">...</h2>
+        <p id="hot-desc">...</p>
+        <div class="price-row">
+          <span id="hot-price" class="price"></span>
+          <span id="hot-old" class="old-price"></span>
+          <span id="hot-badge" class="badge red" hidden></span>
+        </div>
+        <div class="hero-actions">
+          <a id="hot-details" class="btn hero-card hot" href="#" data-i18n="btn.details">Деталі</a>
+          <a id="hot-link" class="btn brand" target="_blank" rel="noopener" href="#" data-olx data-i18n="btn.buy">Купити на OLX</a>
+        </div>
+      </div>
+
+      <div class="hero-card new">
+        <div class="eyebrow" data-i18n="hero.new">Новинка</div>
+        <h2 id="new-title">...</h2>
+        <p id="new-desc">...</p>
+        <div class="hero-actions">
+          <a id="new-details" class="btn brand-ghost" href="#" data-i18n="btn.details">Деталі</a>
+          <a id="new-link" class="btn outline" target="_blank" rel="noopener" href="#" data-olx data-i18n="btn.buy">Купити на OLX</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Top 5 new -->
+    <section class="container" id="products">
+      <div class="section-head">
+        <h3 data-i18n="top.title">Топ 5 новинок</h3>
+        <!-- <p class="muted" data-i18n="top.subtitle">Останні додані вироби</p> -->
+      </div>
+      <div id="top-grid" class="grid"></div>
+    </section>
+
+    <!-- Tech & Quality -->
+    <section class="container two-col" id="about">
+      <div class="section-head">
+        <h3 data-i18n="tech.title">Технологія виготовлення</h3>
+        <p class="muted" data-i18n="tech.subtitle">Стабільна якість з першої деталі</p>
+      </div>
+      <div class="content">
+        <p data-i18n="tech.body">
+          Друкую на Creality K1C: швидко, точно, чиста геометрія. Контроль температур,
+          калібрування та ретельно підібрані профілі друку гарантують рівні поверхні.
+        </p>
+      </div>
+    </section>
+
+    <section class="container two-col">
+      <div class="section-head">
+        <h3 data-i18n="quality.title">Про якість</h3>
+        <p class="muted" data-i18n="quality.subtitle">Матеріал і міцність — без компромісів</p>
+      </div>
+      <div class="content">
+        <p data-i18n="quality.body">
+          Використовую PETG від Creality (Generic) — стійкий до ударів і температур.
+          Не економлю на заповненні — вироби роблю міцними, щоб служили довго.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <!-- PRODUCT DETAIL VIEW -->
+  <main id="view-product" hidden>
+    <section class="container product">
+      <a href="products.html" class="back">&larr; <span data-i18n="back">Назад</span></a>
+      <div class="product-grid">
+        <div class="gallery">
+          <center>
+          <img id="p-hero" alt="">
+          <div id="p-thumbs" class="thumbs"></div>
+
+        </center>
+        </div>
+        <div class="info">
+          <h1 id="p-title">...</h1>
+          <p id="p-desc" class="muted"></p>
+          <div class="price-row">
+            <span id="p-price" class="price"></span>
+            <span id="p-old" class="old-price"></span>
+            <span id="p-badge" class="badge red" hidden></span>
+          </div>
+          <ul id="p-specs" class="specs"></ul>
+          <div class="actions">
+            <a id="p-olx" class="btn brand" target="_blank" rel="noopener" data-olx data-i18n="btn.buy" data-bypass>Купити на OLX</a>
+            <a id="p-download" class="btn brand-ghost" download data-i18n="btn.download" data-bypass>Скачати</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer" id="links">
+      <div class="container footer-grid">
+        <div>
+          <div class="brand">Admin Inc.</div>
+          <div class="muted small" data-i18n="footer.tagline">3D-друк з увагою до деталей</div>
+        </div>
+        <div>
+          <h4 data-i18n="footer.links">Посилання</h4>
+          <ul>
+            <li><a href="https://www.youtube.com/@administration777" target="_blank" rel="noopener">YouTube — Admin Inc.</a></li>
+            <li><a href="https://www.youtube.com/@admin_inc_ua" target="_blank" rel="noopener">YouTube — Admin Inc. UA</a></li>
+            <li><a href="https://www.olx.ua/list/user/zI1BW/" target="_blank" rel="noopener">OLX</a></li>
+            <li><a href="https://instagram.com/_george_.png" target="_blank" rel="noopener">Instagram #1</a></li>
+            <li><a href="https://instagram.com/_george_.jpg" target="_blank" rel="noopener">Instagram #2</a></li>
+          </ul>
+        </div>
+      </div>
+      <center>NOTE: This website has been translated by automatic means. The original is Ukrainian. I apologize if you see translation problems.</center>
+      <div class="container tiny muted">© <span id="year">2025</span> Admin Inc.</div>
+    </footer>
+
+  <!-- Confirm leave modal -->
+  <div id="leave-modal" class="modal hidden" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-backdrop"></div>
+    <div class="modal-card">
+      <div class="modal-title" data-i18n="modal.leave.title">Покинути сайт?</div>
+      <p class="modal-text">
+        <span data-i18n="modal.leave.text">Ви переходите за зовнішнім посиланням:</span>
+        <br><span id="leave-url" class="muted small"></span>
+      </p>
+      <div class="modal-actions">
+        <button id="leave-no" class="btn brand-ghost" data-i18n="modal.leave.no">Ні</button>
+        <a id="leave-yes" class="btn outline" target="_blank" rel="noopener" data-i18n="modal.leave.yes">Так</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- jQuery for sugar -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
