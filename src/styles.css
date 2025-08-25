@@ -27,7 +27,12 @@
 html,body{height:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 -apple-system,system-ui,Segoe UI,Roboto,Arial,sans-serif}
 
-.container{max-width:var(--container);margin:0 auto;padding:16px}
+.container{max-width: var(--container);
+/* margin: 16px auto; */
+/* padding: 16px; */
+margin: 16px;
+margin-top: 0;
+          }
 
 /* ==== Fixed header with blur ==== */
 .site-header-wrap{
