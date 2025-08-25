@@ -268,7 +268,8 @@ function bindLeaveModal() {
     }
     // emit event for the app
     window.dispatchEvent(new CustomEvent('langchange', { detail: { lang: newLang } }));
-
+    if (window.__i18n) window.__i18n.apply(window.__i18n.lang());
+    if (window.__i18n) window.__i18n.apply(newLang);
   }
 
   // toggles the slide-down panel
