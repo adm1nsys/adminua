@@ -49,7 +49,7 @@ margin-top: 0;
 
 }
 body{ padding-top: var(--header-h); }
-.site-header{display:flex;align-items:center;gap:16px;height:var(--header-h);overflow-y: hidden;}
+.site-header{display:flex;align-items:center;gap:16px;height:var(--header-h);overflow-y: hidden; margin: auto;padding: 15px;}
 .logo{font-weight: 800;
 text-decoration: none;
 color: var(--text);
