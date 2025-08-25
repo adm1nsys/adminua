@@ -108,7 +108,7 @@ background-color: var(--bg-btn);
 .hero-actions.hot-details:hover{color: white;}
 .hero-card.hot{border-color:var(--red);transition: 0.4s;}
 .btn.hero-card.hot{ color: var(--red); }
-.btn.hero-card.hot:hover{scale: 1.1; background: var(--red); color: white; border-color: var(--red);}
+.btn.hero-card.hot:hover{scale: 1; background: var(--red); color: white; border-color: var(--red);}
 .hero-card.hot:hover{scale: 1.01; background: var(--red-dark);}
 .hero-card.new:hover{scale: 1.01; background: var(--blue-dark); border-color: var(--brand);}
 @media (min-width:860px){ .hero{grid-template-columns:1fr 1fr} }
@@ -129,13 +129,13 @@ background-color: var(--bg-btn);
 .card h4{margin:4px 0;font-size:18px}
 /* img{user-select: none;pointer-events: none;} */
 /* ==== Buttons ==== */
-.btn{display:inline-block;margin-top:8px;padding:10px 14px;border-radius:12px;text-decoration:none;border:1px solid var(--brand);transition:filter .15s ease}
+.btn{scale: 0.95;display:inline-block;margin-top:8px;padding:10px 14px;border-radius:12px;text-decoration:none;border:1px solid var(--brand);transition:filter .15s ease}
 .btn:hover{filter:brightness(.98)}
-.btn.outline{background:var(--brand); color: #fff; transition: 0.4s;}
-.btn.outline:hover{scale:1.1;}
+.btn.outline{scale: 0.95;background:var(--brand); color: #fff; transition: 0.4s;}
+.btn.outline:hover{scale:1;}
 .btn.ghost{border-color:var(--line)}
-.btn.brand{background:var(--red); color:#fff; border-color:var(--red); transition: 0.4s;}
-.btn.brand:hover{scale: 1.1;}
+.btn.brand{scale: 0.95;background:var(--red); color:#fff; border-color:var(--red); transition: 0.4s;}
+.btn.brand:hover{scale: 1;}
 .btn.brand-ghost{border-color:var(--brand); color:var(--brand); background:transparent; transition: 0.4s; cursor: pointer;}
 .btn.brand-ghost:hover{color:white;background: var(--brand); scale:1.1;}
 .btn.red{border-color:var(--red);background:var(--red);color:#fff}
@@ -146,7 +146,7 @@ background-color: var(--bg-btn);
 .product-grid{display:grid;grid-template-columns:1fr;gap:16px;margin-top:8px}
 .gallery{border:1px solid var(--line);border-radius:var(--radius);background:var(--card);padding:10px}
 .gallery img{
-  width:100%;
+  max-width: 100%;
   object-fit:cover;border-radius:12px;max-height:440px}
 .thumbs{display:flex;gap:10px;margin-top:10px;flex-wrap:wrap}
 .thumbs img{width:92px;height:92px;object-fit:cover;border-radius:10px;cursor:pointer;border:1px solid var(--line)}
