@@ -106,11 +106,12 @@ background-color: var(--bg-btn);
 .hero-actions{display:flex;gap:10px;flex-wrap:wrap}
 .hero-actions.hot-details:{color: var(--red); transition: 0.4s;}
 .hero-actions.hot-details:hover{color: white;}
-.hero-card.hot{border-color:var(--red);transition: 0.4s;}
+.hero-card.hot{border-color:var(--red);transition: 0.4s;scale: 0.99;}
 .btn.hero-card.hot{ color: var(--red); }
 .btn.hero-card.hot:hover{scale: 1; background: var(--red); color: white; border-color: var(--red);}
-.hero-card.hot:hover{scale: 1.01; background: var(--red-dark);}
-.hero-card.new:hover{scale: 1.01; background: var(--blue-dark); border-color: var(--brand);}
+.hero-card.hot:hover{scale: 1; background: var(--red-dark);}
+.hero-card.new{scale: 0.99;transition: 0.4s;}
+.hero-card.new:hover{scale: 1; background: var(--blue-dark); border-color: var(--brand);}
 @media (min-width:860px){ .hero{grid-template-columns:1fr 1fr} }
 
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:16px}
@@ -137,7 +138,7 @@ background-color: var(--bg-btn);
 .btn.brand{scale: 0.95;background:var(--red); color:#fff; border-color:var(--red); transition: 0.4s;}
 .btn.brand:hover{scale: 1;}
 .btn.brand-ghost{border-color:var(--brand); color:var(--brand); background:transparent; transition: 0.4s; cursor: pointer;}
-.btn.brand-ghost:hover{color:white;background: var(--brand); scale:1.1;}
+.btn.brand-ghost:hover{color:white;background: var(--brand); scale:1;}
 .btn.red{border-color:var(--red);background:var(--red);color:#fff}
 .btn.red-ghost{border-color:var(--red); color:var(--red); background:transparent;}
 
