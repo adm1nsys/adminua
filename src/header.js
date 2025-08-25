@@ -300,7 +300,7 @@ function bindLeaveModal() {
 
   async function mountHeader(){
     // Load header.html and insert template + mount point into DOM
-    const res = await fetch('/header.html');
+    const res = await fetch('/adminua/header.html');
     const html = await res.text();
     // inject template into body only once
     if (!document.getElementById('tpl-header')){
