@@ -23,7 +23,7 @@
     --bg-btn: rgba(0, 0, 0, 0.5);
   }
 }
-*{box-sizing:border-box}
+*{box-sizing:border-box;overflow-x: hidden;}
 html,body{height:100%}
 body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 -apple-system,system-ui,Segoe UI,Roboto,Arial,sans-serif}
 
@@ -46,6 +46,7 @@ margin-top: 0;
   top: 0px;
   right: 0;
   left: 0;
+  overflow-y: hidden;
 }
 body{ padding-top: var(--header-h); }
 .site-header{display:flex;align-items:center;gap:16px;height:var(--header-h)}
